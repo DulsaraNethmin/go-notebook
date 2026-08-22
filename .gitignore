@@ -1,0 +1,31 @@
+# Compiled binaries and objects
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.a
+*.o
+
+# Test binaries and profiling output
+*.test
+*.out
+coverage.*
+*.prof
+*.pprof
+
+# Dependency and workspace files
+vendor/
+go.work
+go.work.sum
+
+# Bare binaries built into the topic folders
+bin/
+examples/main
+examples/**/main
+
+# Editors and OS cruft
+.DS_Store
+.idea/
+.vscode/
+*.swp
