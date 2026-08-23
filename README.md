@@ -27,9 +27,9 @@
 <!-- Surprises, footguns, and things that bit you. -->
 
 ## ✅ Exercises
-- [ ] Install Go, run `go version` and `go env`, and note where the module cache lives.
-- [ ] Create a module `hello` with `go mod init` and write a Hello World that prints your name.
-- [ ] Build a binary with `go build`, run it directly, then compare with `go run .` — note what artefact each leaves behind.
+- [ ✅] Install Go, run `go version` and `go env`, and note where the module cache lives.
+- [ ✅] Create a module `hello` with `go mod init` and write a Hello World that prints your name.
+- [ ✅] Build a binary with `go build`, run it directly, then compare with `go run .` — note what artefact each leaves behind.
 - [ ] Deliberately mis-format a file (bad indentation, extra blank lines), then fix it with `gofmt -w`.
 - [ ] Use `go doc fmt.Println` from the terminal and read the docs without opening a browser.
 
